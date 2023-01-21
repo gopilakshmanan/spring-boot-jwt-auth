@@ -16,4 +16,4 @@ JWT authentication with Sprig-Boot
 4. jjwt
 5. postgresql
 
-Edited in Feature1
+Edited in Feature1 - one more feature
